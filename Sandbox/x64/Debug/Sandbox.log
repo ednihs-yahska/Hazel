@@ -1,0 +1,3 @@
+﻿  Application.cpp
+D:\UndergroundSecretLabaratory\Hazel\Sandbox\src\Application.cpp(6,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+LINK : fatal error LNK1104: cannot open file 'D:\UndergroundSecretLabaratory\Hazel\bin\Debug-x64\Hazel\Hazel.lib'
